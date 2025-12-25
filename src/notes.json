@@ -11,7 +11,6 @@
   { "name": "A2", "frequency": 110.0 },
   { "name": "A#2", "frequency": 116.54094 },
   { "name": "B2", "frequency": 123.470826 },
-
   { "name": "C3", "frequency": 130.812783 },
   { "name": "C#3", "frequency": 138.591315 },
   { "name": "D3", "frequency": 146.832384 },
@@ -24,7 +23,6 @@
   { "name": "A3", "frequency": 220.0 },
   { "name": "A#3", "frequency": 233.081881 },
   { "name": "B3", "frequency": 246.941651 },
-
   { "name": "C4", "frequency": 261.625565 },
   { "name": "C#4", "frequency": 277.182631 },
   { "name": "D4", "frequency": 293.664768 },
@@ -37,7 +35,6 @@
   { "name": "A4", "frequency": 440.0 },
   { "name": "A#4", "frequency": 466.163762 },
   { "name": "B4", "frequency": 493.883301 },
-
   { "name": "C5", "frequency": 523.251131 },
   { "name": "C#5", "frequency": 554.365262 },
   { "name": "D5", "frequency": 587.329536 },
@@ -50,6 +47,5 @@
   { "name": "A5", "frequency": 880.0 },
   { "name": "A#5", "frequency": 932.327523 },
   { "name": "B5", "frequency": 987.766603 },
-
   { "name": "C6", "frequency": 1046.502261 }
 ]
